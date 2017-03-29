@@ -24,6 +24,40 @@
     <!--     Fonts and icons     -->
     <link href="http://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">
     <link href='http://fonts.googleapis.com/css?family=Roboto:400,700,300|Material+Icons' rel='stylesheet' type='text/css'>
+	<style type="text/css">
+
+table{
+
+width:100%;
+border-collapse:collapse;
+box-shadow:5px 5px 5px gray;
+border-radius:5px;
+}
+
+th, td {
+padding: 8px;
+text-align:left;
+border-bottom: 1px solid #ddd;
+}
+
+th{
+ background: purple; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(left top, #a843b0, #8f268b); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(bottom right, #a843b0, #8f268b); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(bottom right, #a843b0, #8f268b); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(to bottom right,  #a843b0, #8f268b); /* Standard syntax */
+  color:white;
+}
+
+tr:hover{
+background-color:lightgray;}
+		
+center{
+color:purple;
+
+}
+
+</style>
 
 </head>
 
